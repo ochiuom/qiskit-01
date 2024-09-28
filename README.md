@@ -16,13 +16,13 @@ This project demonstrates the implementation of quantum circuits using Qiskit on
 
 6. **Project Files**: 
    - Use the `02-step` file for Raspberry Pi 5 operations.
-   - Use the `03-step` Jupyter notebook for quantum computer operations.
+   - Use the `03-step` for quantum computer operations using pi 5.
 
 7. **IBM Quantum Setup**:
    - Obtain a token from the IBM Quantum website.
    - Create a `.qiskit` folder in your home directory.
-   - Place the token in a JSON file within the `.qiskit` folder.
-   - This project uses Visual Studio Code for IBM Quantum access instead of a web browser.
+   - Place the token in a JSON file within the `.qiskit` folder (template provided here).
+   - This project uses Visual Studio for IBM Quantum access instead of a web browser.
 
 ## Why This Project Matters
 
@@ -35,7 +35,7 @@ This Qiskit project offers a hands-on experience in quantum computing. By compar
 ## Getting Started
 
 1. Set up your Raspberry Pi 5 with the necessary software (refer to installation instructions).
-2. Clone this repository to your local machine and the Raspberry Pi 5.
+2. Clone this repository to your Raspberry Pi 5.
 3. Follow the step-by-step instructions in the provided files to run the experiments.
 4. Compare and analyze the results from classical simulation and quantum hardware.
 
