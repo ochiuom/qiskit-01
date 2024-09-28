@@ -77,7 +77,7 @@ This guide will walk you through the process of installing Qiskit and JupyterLab
 To start JupyterLab, ensure your virtual environment is activated, then run:
 
 ```bash
-jupyter lab
+jupyter lab --no-browser 
 ```
 
 This will start the JupyterLab server and open a new tab in your default web browser.
