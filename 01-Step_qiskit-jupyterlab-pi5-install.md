@@ -84,7 +84,7 @@ This will start the JupyterLab server and open a new tab in your default web bro
 
 ## Notes
 
-- If you're using a Zsh terminal instead of Bash, the activation command remains the same.
+- If you're using a Bash terminal instead of Zsh, then for qiskit visualization use "pip install qiskit[visualization]".
 - You may need to install additional dependencies if you encounter any errors during the installation process.
 - It's recommended to use this setup within the virtual environment to avoid conflicts with system-wide Python packages.
 
@@ -94,6 +94,5 @@ If you encounter any issues with the installation:
 
 1. Ensure your Raspberry Pi OS is up to date.
 2. Check that you have sufficient free space on your SD card or storage device.
-3. If you encounter permission errors, make sure you're not running pip with sudo inside the virtual environment.
 
 For further assistance, consult the official Qiskit and JupyterLab documentation or seek help in their respective community forums.
