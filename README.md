@@ -49,7 +49,7 @@ For more information on Qiskit and quantum computing, check out the following re
 
 - [Qiskit Documentation](https://qiskit.org/documentation/)
 - [IBM Quantum](https://quantum-computing.ibm.com/)
-- [Quantum Computing at NASA](https://www.nasa.gov/directorates/spacetech/strg/quantum/)
+- [Video Lecture from IBM about this concept](https://www.youtube.com/watch?v=3Ka11boCm1M&t=724s)
 
 ---
 
