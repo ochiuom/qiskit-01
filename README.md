@@ -51,10 +51,6 @@ For more information on Qiskit and quantum computing, check out the following re
 - [IBM Quantum](https://quantum-computing.ibm.com/)
 - [Quantum Computing at NASA](https://www.nasa.gov/directorates/spacetech/strg/quantum/)
 
-## License
-
-[Include your chosen license information here]
-
 ---
 
 Happy quantum computing!
