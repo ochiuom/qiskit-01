@@ -80,7 +80,7 @@ To start JupyterLab, ensure your virtual environment is activated, then run:
 jupyter lab --no-browser 
 ```
 
-This will start the JupyterLab server and open a new tab in your default web browser.
+This will start the JupyterLab server and open a new tab in your default web browser. Here, instead of web browser, I used Visual Studio to connect Pi 5 server via SSH.
 
 ## Notes
 
