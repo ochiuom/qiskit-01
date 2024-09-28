@@ -8,7 +8,7 @@ This project demonstrates the implementation of quantum circuits using Qiskit on
 
 2. **Development Environment**: Use Visual Studio Code on your local laptop for SSH connection to the Raspberry Pi 5.
 
-3. **Classical Simulation**: Run a bit flip code (using NOT gate, bit-flip gate) on the Raspberry Pi 5 with a circuit depth of 127, followed by measurement.
+3. **Classical Simulation**: Run a bit flip code (using NOT gate, bit-flip gate) on the Raspberry Pi 5 with a circuit depth of 127, followed by measurement (main section of code takes about 10.5s, screenshot attached in media folder, on pi5 all containers are running already (pihole, jellyfin, portainer etc). For my laptop running Arch linux, it takes around 7.3s). It gives you the flavour of computing power of Pi 5 chip. Although it's not absolute, but in perepective.
 
 4. **Quantum Measurement**: Implement a bit flip code using CNOT gate (more known as 'X' gate or bit-flip gate) and measure it using the Pauli Z operator to obtain the <Z> expectation value.
 
