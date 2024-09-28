@@ -16,7 +16,7 @@ This project demonstrates the implementation of quantum circuits using Qiskit on
 
 6. **Project Files**: 
    - Use the `02-step` file for Raspberry Pi 5 operations.
-   - Use the `03-step` for quantum computer operations using pi 5.
+   - Use the `03-step` for quantum computer operations using Pi 5.
 
 7. **IBM Quantum Setup**:
    - Obtain a token from the IBM Quantum website.
