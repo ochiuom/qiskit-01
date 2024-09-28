@@ -1,0 +1,8 @@
+{
+    "default-ibm-quantum": {
+        "channel": "ibm_quantum",
+        "is_default_account": true,
+        "token": "",
+        "url": "https://auth.quantum-computing.ibm.com/api"
+    }
+}
