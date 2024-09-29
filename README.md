@@ -22,7 +22,7 @@ This project demonstrates the implementation of quantum circuits using Qiskit on
    - Obtain a token from the IBM Quantum website.
    - Create a `.qiskit` folder in your home directory.
    - Place the token in a JSON file within the `.qiskit` folder (template provided here).
-   - This project uses Visual Studio for IBM Quantum access instead of a web browser.
+   - For this project, I  used Visual Studio for IBM Quantum access. You could use, instead,  a web browser from pi 5 or where you istalled the qiskit.
 
 ## Why This Project Matters
 
