@@ -8,9 +8,9 @@ This project demonstrates the implementation of quantum circuits using Qiskit on
 
 2. **Development Environment**: Use Visual Studio Code on your local laptop for SSH connection to the Raspberry Pi 5.
 
-3. **Classical Simulation**: Run a bit flip code (using NOT gate, bit-flip gate) on the Raspberry Pi 5 with a circuit depth of 127, followed by measurement (main section of code takes about 10.5s, screenshot attached in media folder, on pi5 all containers are running already (pihole, jellyfin, portainer etc). For my laptop running Arch linux, it takes around 7.3s). It gives you the flavour of computing power of Pi 5 chip. Although it's not absolute, but in perspective.
+3. **Classical Simulation**: Run a bit flip code (think of spin up goes to spin down state , and vice versa. In this case we are performing quantum simulations on classical computers) with a circuit depth of 127, demonstrating the computing power of the Pi 5. The main code section executed in about 10.5 seconds, showcasing its capabilities compared to my laptop running Arch Linux at around 7.3 seconds. This gives a flavor of the computing power of the Pi 5 chip; although it's not absolute, it provides perspective. Here, what I am trying to do is shown in attached figure, revealing circuit functionality through a depth-5 diagram.
 
-4. **Quantum Measurement**: Implement a bit flip code using CNOT gate (more known as 'X' gate or bit-flip gate) and measure it using the Pauli Z operator to obtain the <Z> expectation value. Check the quantum circuit diagram (in media folder) to visualize the circuit's depth of 5 and understand its functionality.
+4. **Quantum Measurement**: Implement the bit flip code (circuit depth of 127) using the CNOT (X) gate and measured the expectation value with the Pauli Z operator (spin operator for up and down spin).
 
 5. **Comparison**: Compare the results from the Raspberry Pi 5 simulation with those from a real quantum computer. This comparison highlights the imperfections in real qubits and the need for error correction techniques.
 
